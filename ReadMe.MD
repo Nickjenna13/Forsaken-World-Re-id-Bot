@@ -1,0 +1,1 @@
+All information for the bot is in start up screen + unable to move mouse while running.
