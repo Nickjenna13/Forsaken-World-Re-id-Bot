@@ -1,5 +1,5 @@
 #Include ImageSearchList.ahk
-Msgbox,,Re-ID, Re-ID Bot for Forsaken World `nVersion 2.0: Massive re-work: All new code and options for multiple IDs `nWritten By XXXX `n`nCommands:`nCtrl+i : Select item to ID`nCtrl+o : Select Re-ID box`nCtrl+p : Run the bot, Please use I and O before P or you will get an error`nCtrl+l : Pause bot while active`nCtrl+e : Debugging `nCtrl+t : Test
+Msgbox,,Re-ID, Re-ID Bot for Forsaken World `nVersion 2.0: Massive re-work: All new code and options for multiple IDs `nWritten By Nickohlas Melfi `n`nCommands:`nCtrl+i : Select item to ID`nCtrl+o : Select Re-ID box`nCtrl+p : Run the bot, Please use I and O before P or you will get an error`nCtrl+l : Pause bot while active`nCtrl+e : Debugging `nCtrl+t : Test
 CoordMode, Mouse, Screen
 CoordMode, Pixel, Screen
 Return
